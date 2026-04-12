@@ -6,6 +6,7 @@ Solved: Yes
 
 Description:
 """
+
 Challenge:
 
 A photo has been recovered during an investigation.
