@@ -21,6 +21,9 @@ Solution:
 - Clean the Image from the "red doodle" before letting an LLM digest it, using a simple python script with OpenCV.
 - LLM returns the location and info, we confirm on Google Maps, and return the flag.
 
+<img width="1425" height="752" alt="caught_in_the_act" src="https://github.com/user-attachments/assets/f67b4c26-0f04-4fdc-8ade-fe43194253a5" />
+
+
 Flag: OSINT{"bond_university_robina"}
 
 Note:
