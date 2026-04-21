@@ -34,12 +34,15 @@ OSINT{DD/MM/YYYY}
 
 After a simple google serach for the name "КОВЖАРОВА ЕЛЕНА АЛЕКСАНДРОВНА" in english,
 which is: "KOVZHAROVA ELENA ALEXANDROVNA", we find a website that has the entire database leak.
-Website: "https://www.thetechoutlook.com", full URL: "https://www.thetechoutlook.com/featured/anonymous-has-leaked-personal-data-of-over-600-russian-fsb-officers-operate-in-moscow/"
+
+Website: "https://www.thetechoutlook.com".
+
+full URL: "https://www.thetechoutlook.com/featured/anonymous-has-leaked-personal-data-of-over-600-russian-fsb-officers-operate-in-moscow/"
 
 On kali, we can 'curl' the entire webpage into a file called 'database.txt' and search for our agent.
 
 <img width="937" height="395" alt="grep_database" src="https://github.com/user-attachments/assets/376789ac-c145-45de-9cac-1eaa41edfc38" />
 
 
-
+The flag: OSINT{11/12/1968}
 
