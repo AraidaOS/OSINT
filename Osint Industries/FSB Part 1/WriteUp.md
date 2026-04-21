@@ -43,6 +43,6 @@ On kali, we can 'curl' the entire webpage into a file called 'database.txt' and 
 
 <img width="937" height="395" alt="grep_database" src="https://github.com/user-attachments/assets/376789ac-c145-45de-9cac-1eaa41edfc38" />
 
-
+***
 The flag: OSINT{11/12/1968}
-
+***
